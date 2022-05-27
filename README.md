@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.htmlartist.net](www.htmlartist.net)
 
-- 💬 Ask me about **React, Express, NodeJS ,**
+- 💬 Ask me about **React, Express, NodeJS**
 
 - 📫 How to reach me **taylor.hembree@gmail.com**
 
